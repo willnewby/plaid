@@ -1,8 +1,8 @@
 {
-    "name": "travoltron/plaid",
+    "name": "willnewby/plaid",
     "type": "library",
     "description": "Laravel specific wrapper for Plaid. Bankdata for developers.",
-    "keywords": ["Travoltron", "Plaid", "Laravel", "Laravel5"],
+    "keywords": ["Travoltron", "Plaid", "Laravel", "Laravel8"],
     "homepage": "https://github.com/travoltron/plaid",
     "license": "MIT",
     "authors": [
@@ -13,7 +13,7 @@
     ],
     "require": {
         "illuminate/support": "~5.1",
-        "php" : "~5.5|~7.0",
+        "php" : "~5.5|~7.0|~8.0",
         "guzzlehttp/guzzle": "~6.0",
         "nesbot/carbon": "~1.18"
     },
