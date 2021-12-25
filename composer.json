@@ -5,6 +5,7 @@
     "keywords": ["Travoltron", "Plaid", "Laravel", "Laravel8"],
     "homepage": "https://github.com/willnewby/plaid",
     "license": "MIT",
+    "version" : "3.0.0",
     "authors": [
         {
             "name": "Ben Warburton",
