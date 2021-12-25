@@ -1,9 +1,9 @@
 {
     "name": "willnewby/plaid",
     "type": "library",
-    "description": "Laravel specific wrapper for Plaid. Bankdata for developers.",
+    "description": "Laravel specific wrapper for Plaid. Bankdata for developers. A fork of https://github.com/travoltron/plaid ",
     "keywords": ["Travoltron", "Plaid", "Laravel", "Laravel8"],
-    "homepage": "https://github.com/travoltron/plaid",
+    "homepage": "https://github.com/willnewby/plaid",
     "license": "MIT",
     "authors": [
         {
